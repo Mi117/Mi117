@@ -2,9 +2,8 @@
 - 🤝 I am deeply humbled to start this educational journey and become an active force for a better world 🗺️
 - 🤓 My name's Michele ITA/AUS _ @Mi117
 - 👀 I have profound interest in software development, Front-End design and Cybersecurity focus
-- 🌱 I have started to learn the basics of Computational Languages (HTML, CSS, Javascript) along with studying the basics of OS (in particular Linux) - as part of my Cybersecurity study path
-- 💞️ I'm looking to reach a good level of knowledge to be able to collaborate on projects (at a basic entry-level, intially) in order to achieve hands-on experience on the
-      on the field and sharpen my skills while acquiring new ones along the way.
+- 🌱 I have started to learn the basics of Computational Languages (HTML, CSS, Javascript and Phyton), while strenghtening my knowledge about Cybersecurity practices and, most recently started my learning path toward AWS Architect Solution Cetification.
+- 💞️ I'm looking to reach a good level of knowledge to be able to collaborate on projects (at a basic entry-level, intially) in order to achieve hands-on experience on the field and sharpen my skills while acquiring new ones along the way.
 - 📫 📧 mirev89@gmail.com 
       🐦@mifilandro
       
