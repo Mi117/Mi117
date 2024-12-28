@@ -5,7 +5,6 @@
 - 🌱 I have started to learn the basics of Computational Languages (HTML, CSS, Javascript and Phyton), while strenghtening my knowledge about Cybersecurity practices on my path to become a SOC Analyst and Penetration Tester.
 - 💞️ I'm looking to reach a good level of knowledge to be able to collaborate on projects (at a basic entry-level, intially) in order to achieve hands-on experience on the field and sharpen my skills while acquiring new ones along the way.
 - 📫 📧 mirev89@gmail.com 
-      🐦@mifilandro
       
 
 <!---
