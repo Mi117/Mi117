@@ -34,6 +34,28 @@ LinkedIn [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Michele%20Fi
 [![Credly Badge 3](https://img.shields.io/badge/Certifications-Credly%20Badge%203-1A74D9?style=flat-square)](https://www.credly.com/badges/c5679763-1543-4f47-8163-26c1c3f3cd5d/linked_in_profile)
 [![Credly Badge 4](https://img.shields.io/badge/Certifications-Credly%20Badge%204-1A74D9?style=flat-square)](https://www.credly.com/badges/a3ff5c4f-4eb2-4614-8ad4-c07076624c94/linked_in_profile)
 
+## TOOLS:
+### DEVELOPMENT TOOLS & ENVIRONMENTS
+- VS Code
+- GitHub
+- Kali Linux
+- Windows 10 / 11
+
+### CYBERSECURITY TOOLS & PLATFORMS
+- Nmap
+- Wireshark
+- TryHackMe
+- Hack The Box
+- LetsDefend
+- CyberDefenders
+- CyberExams
+- Blue Team Labs Online
+
+### SCRIPTING & PROGRAMMING LANGUAGES
+- Python
+- PowerShell
+
+
 
 
 
