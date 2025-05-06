@@ -17,6 +17,10 @@ Become part of my journey into the worls of Cybersecurity and follow me on:
 📫 I'm always open to exciting internship or junior-level opportunities in cybersecurity, pen testing, or SOC roles. Feel free to check out my repositories and get in touch! 📧 cyberatlas.protect@gmail.com
       
 
+## Certifications
+[![CISSP Badge](https://img.shields.io/badge/CISSP-Let%27sDefend-blue?logo=letsdefend&style=flat-square)](https://app.letsdefend.io/my-rewards/detail/af4cabe4778547beaf379edff34a4a56)
+
+
 <!---
 Mi117/Mi117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
