@@ -3,6 +3,7 @@
 
 ## A bit about me:
 👀 I have profound interest in Technolgy, with focus on Computers, Networks, Cloud and all things Cybersecurity 
+
 🌱 I have started my learning journey with a Bachelor in Cybersecurity, aimed to strenghten my knowledge and develop best practices on my path to become a SOC Analyst and OSINT Investigator, and transition in the industry full-time.
 
 ## Objective:
