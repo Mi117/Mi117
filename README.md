@@ -10,7 +10,7 @@
 
 Become part of my journey into the worls of Cybersecurity and follow me on:
 
-🐦 Let's connect on Twitter: https://x.com/Atl4sCyberSec 
+🐦 [![Follow on X](https://img.shields.io/badge/X-@Atl4sCyberSec-1DA1F2?style=flat-square&logo=twitter)](https://x.com/Atl4sCyberSec)
 
 📑 Signup to my Substack to check my latest articles, all thing security and events: https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page
 
@@ -18,7 +18,12 @@ Become part of my journey into the worls of Cybersecurity and follow me on:
       
 
 ## Certifications
+
 [![CISSP Badge](https://img.shields.io/badge/CISSP-Let%27sDefend-blue?logo=letsdefend&style=flat-square)](https://app.letsdefend.io/my-rewards/detail/af4cabe4778547beaf379edff34a4a56)
+
+[![CISSP Certificate](https://img.shields.io/badge/CISSP-Basel%20Institute-blueviolet?style=flat-square&logo=graduation-cap)](https://learn.baselgovernance.org/mod/customcert/verify_certificate.php?code=6UPOI5FziI&qrcode=1)
+
+
 
 
 <!---
