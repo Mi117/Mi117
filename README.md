@@ -10,9 +10,11 @@
 
 Become part of my journey into the worls of Cybersecurity and follow me on:
 
-🐦 [![Follow on X](https://img.shields.io/badge/X-@Atl4sCyberSec-1DA1F2?style=flat-square&logo=twitter)](https://x.com/Atl4sCyberSec)
+🐦 Follow me and let's connect on Twitter: 
+[![Follow on X](https://img.shields.io/badge/X-@Atl4sCyberSec-1DA1F2?style=flat-square&logo=twitter)](https://x.com/Atl4sCyberSec)
 
-📑 Signup to my Substack to check my latest articles, all thing security and events: https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page
+📑 Stay up-to-date on all things security with my latest articles an in-depth analysis on my Substack:
+[![Subscribe on Substack](https://img.shields.io/badge/Substack-AtlasProtect-orange?style=flat-square&logo=substack)](https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page)
 
 📫 I'm always open to exciting internship or junior-level opportunities in cybersecurity, pen testing, or SOC roles. Feel free to check out my repositories and get in touch! 📧 cyberatlas.protect@gmail.com
       
