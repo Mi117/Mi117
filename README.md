@@ -54,7 +54,7 @@ LinkedIn [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Michele%20Fi
 ### SCRIPTING & PROGRAMMING LANGUAGES
 - Python
 - PowerShell
-
+- Bash
 
 
 
