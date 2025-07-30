@@ -18,7 +18,8 @@ LinkedIn [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Michele%20Fi
 
 📑 Stay up-to-date on all things security with my latest articles an in-depth analysis on my Substack:
 [![Subscribe on Substack](https://img.shields.io/badge/Substack-AtlasProtect-orange?style=flat-square&logo=substack)](https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page)
-
+ and Medium: [https://medium.com/@AtlasCyberSec] 
+ 
 📫 I'm always open to exciting internship or junior-level opportunities in cybersecurity, pen testing, or SOC roles. Feel free to check out my repositories and get in touch! 📧 cyberatlas.protect@gmail.com
       
 
