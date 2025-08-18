@@ -30,7 +30,7 @@ LinkedIn [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Michele%20Fi
 [![CISSP Certificate](https://img.shields.io/badge/CISSP-IBM%20SkillsBuild-0f62fe?style=flat-square&logo=ibm)](https://courses.skillsbuild.skillsnetwork.site/certificates/1b0d14c95ca5460592fa255f37ca7f40)
 [![Cybersecurity Certificate](https://img.shields.io/badge/Cybersecurity-IBM%20SkillsBuild-0f62fe?style=flat-square&logo=ibm)](https://courses.skillsbuild.skillsnetwork.site/certificates/6361b0078e8f41b696c700230a0b6c26)
 [![Cybersecurity Certificate](https://img.shields.io/badge/Cybersecurity-IBM%20SkillsBuild-0f62fe?style=flat-square&logo=ibm)](https://courses.skillsbuild.skillsnetwork.site/certificates/804ea5422b9b475e8f15a9d406522224)
-[![Credly Badge 1](https://img.shields.io/badge/Certifications-Credly%20Badge%201-1A74D9?style=flat-square)](https://www.credly.com/badges/8c13d126-6a2b-49b2-8f4e-0f468fceb60f/linked_in_profile)
+[![Information Security Fundamentals - IBM SkillsBuild](https://img.shields.io/badge/Certifications-Credly%20Badge%201-1A74D9?style=flat-square)](https://www.credly.com/badges/8c13d126-6a2b-49b2-8f4e-0f468fceb60f/linked_in_profile)
 [![Credly Badge 2](https://img.shields.io/badge/Certifications-Credly%20Badge%202-1A74D9?style=flat-square)](https://www.credly.com/badges/0d0d9d19-bbf5-424f-8780-01080a7a781e/linked_in_profile)
 [![Credly Badge 3](https://img.shields.io/badge/Certifications-Credly%20Badge%203-1A74D9?style=flat-square)](https://www.credly.com/badges/c5679763-1543-4f47-8163-26c1c3f3cd5d/linked_in_profile)
 [![Credly Badge 4](https://img.shields.io/badge/Certifications-Credly%20Badge%204-1A74D9?style=flat-square)](https://www.credly.com/badges/a3ff5c4f-4eb2-4614-8ad4-c07076624c94/linked_in_profile)
