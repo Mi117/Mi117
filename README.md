@@ -1,7 +1,4 @@
 # 👋 Greetings to all the community! I'm Michele 🙋‍♂️
-🎯 Aspiring SOC Analyst | Blue Team & OSINT
-🔬 Ex-Operations Leader → turning operations discipline into SOC readiness.
-Currently studying #Cybersecurity
 
 ## 🎯 Objective
 
@@ -65,10 +62,10 @@ Over the past couple of years I've been building hands-on security skills throug
 
 ## 📫 Connect with me
 
-- **LinkedIn:** linkedin.com/in/michele-filandro-atlas-security
-- **X:** @Atl4sCyberSec
-- **Substack:** @cyberhornet00
-- **Medium:** @AtlasCyberSec
-- **GitHub:** github.com/Mi117
+[![GitHub](https://img.shields.io/badge/GitHub-Mi117-black?style=flat-square&logo=github)](https://github.com/Mi117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michele%20Filandro-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/michele-filandro-atlas-security)
+[![X](https://img.shields.io/badge/X-CyberSec-000000?style=flat-square&logo=x)](https://x.com/Atl4sCyberSec)
+[![Substack](https://img.shields.io/badge/Substack-CyberHornet-0F8B57?style=flat-square&logo=substack)](https://substack.com/@cyberhornet00)
+[![Medium](https://img.shields.io/badge/Medium-AtlasCyberSec-0000FF?style=flat-square&logo=medium)](https://medium.com/@AtlasCyberSec)
 
 ---
