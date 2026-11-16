@@ -1,4 +1,7 @@
 # 👋 Greetings to all the community! I'm Michele 🙋‍♂️
+🎯 Aspiring SOC Analyst | Blue Team & OSINT
+🔬 Ex-Operations Leader → turning operations discipline into SOC readiness.
+Currently studying #Cybersecurity
 
 ## 🎯 Objective
 
